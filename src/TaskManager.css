@@ -1,0 +1,17 @@
+.task-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 50rem;
+}
+
+.task-buttons {
+    display: flex;
+    gap: 5px;
+}
+
+.task-button {
+    font-size: 0.8rem;
+    padding: 5px 10px;
+}
